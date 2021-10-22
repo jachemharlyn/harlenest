@@ -7,5 +7,5 @@ setup(name='harlenest',
       author='Flying Circus',
       author_email='flyingcircus@example.com',
       license='MIT License',
-      packages=['word_nn'],
+      packages=['word_nn','data_extraction','data_cleaning_and_normalization'],
       zip_safe=False)
